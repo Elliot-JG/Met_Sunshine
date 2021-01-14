@@ -2,7 +2,7 @@
 Analysis of sunshine data from the Met Office
 
 # :wave: Introduction <a name="introduction"></a>
-This is a repository for the analysis of Netflix movies and TV shows from 2008-2020 from the [Kaggle dataset](https://www.kaggle.com/shivamb/netflix-shows), made available through [Flixable](flixable.com). This was written in Rstudio but feel free to use any GUI!
+This is a repository for the analysis of sunshine data from the [Met Office](https://www.metoffice.gov.uk/). I wanted to use this as an opportunity to refresh on Python (before Semester 2) and experiment with using GitBash to push stuff to a simple repo! (More work still needed in that area I think!)
 
 During this process I learnt how to: 
 * Load data into python
@@ -26,6 +26,8 @@ The dependencies for the assignment are:
 * **England.txt**
   + Sunshine data on the UK from 1919 - 2020!
   + For more information please see the [Met Office page](https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-temperature-rainfall-and-sunshine-time-series)
+  
+  Met Office (2020): UK Average Sunshine Data, Part of the Met Office Integrated Data Archive System (MIDAS). NCAS British Atmospheric Data Centre, 14/01/2020.
  
 
 ## :lemon: Usage <a name="usage"></a>
